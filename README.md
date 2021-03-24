@@ -1,24 +1,3 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is about Ruby on Rails payment using Stripe payment method. To test for functionality, you may input any email, expiration date, and CVC. For the card number, i suggest to input 4242 4242 4242 for test data. I linked it to my stripe account.
